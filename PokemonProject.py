@@ -164,14 +164,3 @@ def test_logic():
 
 
 test_logic()
-
-
-# print(tobe.get_active_pokemon())
-# desola.get_active_pokemon()
-# tobe.attack_other_trainer(desola)
-# tobe.attack_other_trainer(desola)
-# desola.get_team()
-# tobe.get_team()
-# desola.use_potion()
-# tobe.get_active_pokemon()
-# desola.swap_pokemon(desolamon)
