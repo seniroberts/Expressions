@@ -27,6 +27,4 @@ def removeDuplicates(an_array):
 
 
 print(removeDuplicates([1, 1, 2, 2, 4, 4]))
-
-# ll = [1, 2, 3, 4]
-# print(len(ll))
+print(removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]))
