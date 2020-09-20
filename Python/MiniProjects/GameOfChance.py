@@ -20,6 +20,7 @@ def gameMenu():
 
 
 def getUserInput():
+    """  """
     print("W=*=E=*=L=*=C=*=O=*=M=*=E TO **<>=====******<> COINFLIP **<>=====******<> ")
     print("${} up for Grabs!! \n${}-Stakes\n".format(cashPrice, stakes))
     while True:
