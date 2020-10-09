@@ -41,7 +41,7 @@ def BackSpaceCompare(word1, word2):
         for letter in word:
             if letter != "#":
                 finalArray.append(letter)
-            elif finalArray != None:
+            elif finalArray != None and len(finalArray) > 0:
                 finalArray.pop()
         return "".join(finalArray)
     return wordBuilder(word1) == wordBuilder(word2)

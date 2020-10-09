@@ -38,7 +38,6 @@ def maxProfit(price):
         else:
             return 0
 
-
     # print(buy_point_index)
     # print(sell_value)
 print(maxProfit([7, 1, 5, 3, 6, 4]))
